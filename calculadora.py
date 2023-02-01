@@ -134,3 +134,4 @@ remover_tudo.place(x=50, y=60, width=37)
 
 
 janela.mainloop()
+
